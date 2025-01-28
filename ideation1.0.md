@@ -29,6 +29,9 @@ GPT enabled pet. bluetooth connection to a device. flying?
 
 ### Emotional mirror companion
 
+![image](https://github.com/user-attachments/assets/48228092-9cba-4d7e-80ca-be94e70e8bab)
+
+
 reacts to emotions, plays reactive music, breathing techniques, colour, face embedded.
 
 plays happy music.
