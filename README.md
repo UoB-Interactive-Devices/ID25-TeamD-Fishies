@@ -1,6 +1,15 @@
-# ID25-TeamD
+# ID25-TeamD i.e. Fishies
 
-Things to add to this repo!
-- A team photo
-- A list of team members
-- A copy of your manifesto
+## Team Photo
+![image](https://github.com/user-attachments/assets/f4f652d2-88a8-4309-a2d4-ae576b12b9ea)
+
+
+## Team Members
+- Xavier
+- Valentina
+- Pranav
+- Bebe
+- Ciaran
+
+## Manifesto
+Coming soon (preview: we want to help people with aquatics)
