@@ -12,4 +12,4 @@
 - Ciaran
 
 ## Manifesto
-Coming soon
+Coming soon (preview: we want to help people with aquatics)
