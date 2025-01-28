@@ -31,6 +31,9 @@ GPT enabled pet. bluetooth connection to a device. flying?
 
 ![image](https://github.com/user-attachments/assets/48228092-9cba-4d7e-80ca-be94e70e8bab)
 
+![image](https://github.com/user-attachments/assets/bb614ff5-d7f5-4ffd-a926-8ee0b3196f13)
+
+
 
 reacts to emotions, plays reactive music, breathing techniques, colour, face embedded.
 
