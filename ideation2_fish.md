@@ -14,3 +14,5 @@
     - lights underwater
 - have cameos of celebrities/voices you want speaking to you while you swim.
     - music or motivation
+- can connect to apple watch/fitbit
+    - can tell you to take a break when heartrate is too high or if anything is wrong  
