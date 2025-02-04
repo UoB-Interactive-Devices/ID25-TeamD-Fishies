@@ -59,4 +59,4 @@ GITHUB
 Need to
 -	Cad, coding, model, 
 -	
-![image](https://github.com/user-attachments/assets/d5d985b2-1a4d-4e13-92fd-9cd1b6b6989f)
+
