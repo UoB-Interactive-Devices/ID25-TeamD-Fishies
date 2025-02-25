@@ -1,3 +1,4 @@
 Here is a sketch of our developed design 
-![image](https://github.com/user-attachments/assets/dc4ed244-58a1-42d8-b413-904145098368)
 
+
+![image](https://github.com/user-attachments/assets/a24f18c1-f674-4ca2-86e6-207b30f9b2a0)
