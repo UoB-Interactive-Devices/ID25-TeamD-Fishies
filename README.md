@@ -17,3 +17,5 @@ Everyone loves swimming, however, there are few engaging, technology-driven game
 By combining robotics, dynamic colour-changing mechanics, and real-time interaction, this game encourages children to swim, strategize, and enjoy the water in a way that traditional swimming lessons or static pool toys cannot. It bridges the gap between digital interactivity and physical activity, making swimming more exciting and accessible.
 
 This project is not just about learning to swim—it’s about redefining how we play in water. Through innovation, we aim to create an experience that fosters movement, engagement, and fun, setting a new standard for interactive aquatic entertainment.
+
+Overleaf: https://www.overleaf.com/project/67a2414e5271c1f8d605aeb2
